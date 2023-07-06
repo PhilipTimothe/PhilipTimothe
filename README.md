@@ -1,10 +1,13 @@
 # Philip Timothe
+**`FinTech | Data Science | Machine Learning | Blockchain`** <br/>
 
-**`FinTech | Data Science | Machine Learning | Blockchain`**
+
 
 ### About Me
 I am a FinTech Data Analyst with a versatile background. I hold a Fintech certificate for Data Science and Blockchain from Columbia University Engineering, a Full Stack Software Development certificate from Flatiron School, a BS in finance, and a BS in Business from Franklin University.  I attained experience in technology combined with previous experience of 7+ years incorporating hospitality and distribution operations. Cultivated an intrinsic diverse set of skills and tools adaptable to limitless environments. I assisted firms in major and minor ways in achieving set-out goals, often resulting in a 1% to 5% increase in end value. High intellectual performer generating leading outputs in all post occupations. Enthusiastic, driven, and passionate about financial technology with a propensity for many technical aspects in between, such as Machine Learning and Blockchain.
 <br/>
+
+#
 
 ### Skills
 
@@ -32,12 +35,15 @@ I am a FinTech Data Analyst with a versatile background. I hold a Fintech certif
 <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
 </p>
 
+#
+
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/PhilipTimothe" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/philiptimothe/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/TimothePhilip" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/@PhilipTimothe" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
 
+#
 
-### Youtube
+### Latest Youtube Videos
 <!-- BEGIN YOUTUBE-CARDS -->
 [![The Best Tech Course for Beginners!](https://ytcards.demolab.com/?id=p0bLV0NzIWw&title=The+Best+Tech+Course+for+Beginners%21&lang=en&timestamp=1684787851&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5 "The Best Tech Course for Beginners!")](https://www.youtube.com/watch?v=p0bLV0NzIWw)
 [![For Anyone Feeling Lonely, Here’s Why There’s Beauty in Being Alone](https://ytcards.demolab.com/?id=U-6S1dKrZ4o&title=For+Anyone+Feeling+Lonely%2C+Here%E2%80%99s+Why+There%E2%80%99s+Beauty+in+Being+Alone&lang=en&timestamp=1680574856&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5 "For Anyone Feeling Lonely, Here’s Why There’s Beauty in Being Alone")](https://www.youtube.com/watch?v=U-6S1dKrZ4o)
