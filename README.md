@@ -41,16 +41,6 @@ I am a FinTech Data Analyst with a versatile background. I hold a Fintech certif
 
 <p align="left"> <a href="https://www.github.com/PhilipTimothe" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/philiptimothe/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/TimothePhilip" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/@PhilipTimothe" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
 
-#
-
-### Latest Youtube Videos
-<!-- BEGIN YOUTUBE-CARDS -->
-[![Best Tech Course if you're just starting out!](https://ytcards.demolab.com/?id=p0bLV0NzIWw&title=Best+Tech+Course+if+you%27re+just+starting+out%21&lang=en&timestamp=1684787851&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Best Tech Course if you're just starting out!")](https://www.youtube.com/watch?v=p0bLV0NzIWw)
-[![For Anyone Feeling Lonely, Here’s Why There’s Beauty in Being Alone](https://ytcards.demolab.com/?id=U-6S1dKrZ4o&title=For+Anyone+Feeling+Lonely%2C+Here%E2%80%99s+Why+There%E2%80%99s+Beauty+in+Being+Alone&lang=en&timestamp=1680574856&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "For Anyone Feeling Lonely, Here’s Why There’s Beauty in Being Alone")](https://www.youtube.com/watch?v=U-6S1dKrZ4o)
-[![How Priceless Art Creates Moments of Appreciation](https://ytcards.demolab.com/?id=P_C-AT04LIk&title=How+Priceless+Art+Creates+Moments+of+Appreciation&lang=en&timestamp=1677642892&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "How Priceless Art Creates Moments of Appreciation")](https://www.youtube.com/watch?v=P_C-AT04LIk)
-[![Software Developer - "What have you been up since...?"](https://ytcards.demolab.com/?id=4bq9a5Y-Lvo&title=Software+Developer+-+%22What+have+you+been+up+since...%3F%22&lang=en&timestamp=1674578357&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Software Developer - \"What have you been up since...?\"")](https://www.youtube.com/watch?v=4bq9a5Y-Lvo)
-<!-- END YOUTUBE-CARDS -->
-
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) 
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
