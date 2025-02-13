@@ -1,5 +1,5 @@
 # Philip Timothe
-**`FinTech | Data Science | Machine Learning | Blockchain`** <br/>
+**`Data Engineer/Analyst | Software Developer`** <br/>
 
 
 
