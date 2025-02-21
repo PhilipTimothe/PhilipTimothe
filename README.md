@@ -9,9 +9,9 @@ I am a Data and Business Analyst with a strong foundation in finance, technology
 I hold a FinTech Certificate in Data Science & Blockchain from Columbia University Engineering, a Full-Stack Software Development Certificate from Flatiron School, and dual Bachelor’s degrees in Finance and Business from Franklin University. Over the past 7+ years, I’ve worked across hospitality, distribution operations, and financial technology, developing adaptable skills that drive efficiency and innovation.
 
 My experience includes:
-✔ Data Analytics & Engineering – Extracting insights, optimizing workflows, and building data-driven solutions.
-✔ Software Development – Implementing scalable applications with Python, SQL, and modern tech stacks.
-✔ Financial & Business Analysis – Translating data into strategic recommendations that enhance performance and profitability.
+- Data Analytics & Engineering – Extracting insights, optimizing workflows, and building data-driven solutions.<br/>
+- Software Development – Implementing scalable applications with Python, SQL, and modern tech stacks.<br/>
+- Financial & Business Analysis – Translating data into strategic recommendations that enhance performance and profitability.<br/>
 
 I’m passionate about leveraging technology to solve complex business challenges, with a keen interest in machine learning, financial modeling, and blockchain applications. Whether improving operational efficiency, automating processes, or uncovering trends through data, I thrive at the intersection of technology and business intelligence.
 
