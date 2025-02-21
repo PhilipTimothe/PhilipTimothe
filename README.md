@@ -4,7 +4,18 @@
 
 
 ### About Me
-I am a FinTech Data Analyst with a versatile background. I hold a Fintech certificate for Data Science and Blockchain from Columbia University Engineering, a Full Stack Software Development certificate from Flatiron School, a BS in finance, and a BS in Business from Franklin University.  I attained experience in technology combined with previous experience of 7+ years incorporating hospitality and distribution operations. Cultivated an intrinsic diverse set of skills and tools adaptable to limitless environments. I assisted firms in major and minor ways in achieving set-out goals, often resulting in a 1% to 5% increase in end value. High intellectual performer generating leading outputs in all post occupations. Enthusiastic, driven, and passionate about financial technology with a propensity for many technical aspects in between, such as Machine Learning and Blockchain.
+I am a Data and Business Analyst with a strong foundation in finance, technology, and software engineering. My background blends analytical expertise with hands-on experience in data-driven decision-making, software development, and financial analysis.
+
+I hold a FinTech Certificate in Data Science & Blockchain from Columbia University Engineering, a Full-Stack Software Development Certificate from Flatiron School, and dual Bachelor’s degrees in Finance and Business from Franklin University. Over the past 7+ years, I’ve worked across hospitality, distribution operations, and financial technology, developing adaptable skills that drive efficiency and innovation.
+
+My experience includes:
+✔ Data Analytics & Engineering – Extracting insights, optimizing workflows, and building data-driven solutions.
+✔ Software Development – Implementing scalable applications with Python, SQL, and modern tech stacks.
+✔ Financial & Business Analysis – Translating data into strategic recommendations that enhance performance and profitability.
+
+I’m passionate about leveraging technology to solve complex business challenges, with a keen interest in machine learning, financial modeling, and blockchain applications. Whether improving operational efficiency, automating processes, or uncovering trends through data, I thrive at the intersection of technology and business intelligence.
+
+Let’s connect and collaborate!
 <br/>
 
 #
